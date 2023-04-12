@@ -5,13 +5,13 @@
 и дашборды, которые изучают основные продуктовые метрики.
 
 <h2 id="dashboard_01">Дашборд анализа причины аномального падения активной аудитории новостной ленты</h2>
-![dashboard_01_audience_drop](dashboard_01_audience_drop.png)
+<img src="dashboard_01_audience_drop.png">
 
 <h2 id="dashboard_02">Дашборд сравнительного анализа поведения "органических" и "рекламных" пользователей</h2>
-![dashboard_02_channels_comparison](dashboard_02_channels_comparison.png)
+<img src="dashboard_02_channels_comparison.png">
 
 <h2 id="dashboard_03">Дашборд анализа базовых продуктовых метрик ленты новостей</h2>
-![dashboard_03_newsfeed](dashboard_03_newsfeed.png)
+<img src="dashboard_03_newsfeed.png">
 
 <h2 id="dashboard_04">Дашборд анализа базовых продуктовых метрик ленты новостей и мессенджера</h2>
-![dashboard_04_newsfeed_messenger](dashboard_04_newsfeed_messenger.png)
+<img src="dashboard_04_newsfeed_messenger.png">
