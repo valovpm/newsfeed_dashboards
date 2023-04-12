@@ -4,14 +4,14 @@
 Ниже представлены основные дашборды, которые изучают аномалии в поведении аудитории продукта,
 и дашборды, которые изучают основные продуктовые метрики.
 
-## Дашборд анализа причины аномального падения активной аудитории новостной ленты
-![dashboard_04_audience_drop](dashboard_04_audience_drop.png)
+<h2 id="dashboard_01">Дашборд анализа причины аномального падения активной аудитории новостной ленты</h2>
+![dashboard_01_audience_drop](dashboard_01_audience_drop.png)
 
-## Дашборд сравнительного анализа поведения "органических" и "рекламных" пользователей
-![dashboard_03_channels_comparison](dashboard_03_channels_comparison.png)
+<h2 id="dashboard_02">Дашборд сравнительного анализа поведения "органических" и "рекламных" пользователей</h2>
+![dashboard_02_channels_comparison](dashboard_02_channels_comparison.png)
 
-## Дашборд анализа базовых продуктовых метрик ленты новостей
-![dashboard_01_newsfeed](dashboard_01_newsfeed.png)
+<h2 id="dashboard_03">Дашборд анализа базовых продуктовых метрик ленты новостей</h2>
+![dashboard_03_newsfeed](dashboard_03_newsfeed.png)
 
-## Дашборд анализа базовых продуктовых метрик ленты новостей и мессенджера
-![dashboard_02_newsfeed_messenger](dashboard_02_newsfeed_messenger.png)
+<h2 id="dashboard_04">Дашборд анализа базовых продуктовых метрик ленты новостей и мессенджера</h2>
+![dashboard_04_newsfeed_messenger](dashboard_04_newsfeed_messenger.png)
